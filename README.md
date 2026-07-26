@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <div align="center">
 
 <img src="assets/bakery_logo_1.png" width="200" alt="Aurelia Bakehouse logo">
@@ -144,6 +146,9 @@ Some ideas for a future iteration of this project:
 
 Built by **Casey Li** in Power BI Desktop.
 
+<br>
+
+<!-- Built by **Casey Li** as a Power BI portfolio project — developed in Power BI Desktop and published via Power BI Pro (Publish to Web). -->
 
 <!-- ## 📁 Repository Structure
 
@@ -161,3 +166,7 @@ HR-Analytics-Dashboard/
     ├── dashboard_page_3.jpg   (Demographic Analysis)
     └── dashboard_page_4.jpg   (Diversity Analysis)
 ``` -->
+
+<p align="right">
+  <sub><a href="#readme-top">Back to top ↑</a></sub>
+</p>
