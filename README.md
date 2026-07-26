@@ -142,7 +142,7 @@ Some ideas for a future iteration of this project:
 
 ## 👤 Author
 
-Built by **Casey Li** as a Power BI portfolio project — developed in Power BI Desktop and published via Power BI Pro (Publish to Web).
+Built by **Casey Li** in Power BI Desktop.
 
 
 <!-- ## 📁 Repository Structure
