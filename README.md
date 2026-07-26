@@ -60,7 +60,7 @@ Designed as a real-world HR reporting solution, the dashboard combines executive
 <td width="50%"><img src="assets/dashboard_page_2.jpg" width="100%" alt="HR at a Glance page"><p align="center"><sub><b>HR at a Glance</b></sub></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/dashboard_page_3.jpg" width="100%" alt="Demographics Analysis page"><p align="center"><sub><b>Demographics Analysis</b></sub></p></td>
+<td width="50%"><img src="assets/dashboard_page_3.jpg" width="100%" alt="Demographic Analysis page"><p align="center"><sub><b>Demographic Analysis</b></sub></p></td>
 <td width="50%"><img src="assets/dashboard_page_4.jpg" width="100%" alt="Diversity Analysis page"><p align="center"><sub><b>Diversity Analysis</b></sub></p></td>
 </tr>
 </table>
