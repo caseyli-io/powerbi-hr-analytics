@@ -1,3 +1,5 @@
+<div align="justify">
+
 <a id="readme-top"></a>
 
 <div align="center">
@@ -170,3 +172,5 @@ HR-Analytics-Dashboard/
 <p align="right">
   <sub><a href="#readme-top">Back to top ↑</a></sub>
 </p>
+
+</div>
