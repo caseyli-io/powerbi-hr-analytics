@@ -42,7 +42,6 @@ A Power BI project analysing workforce composition, demographics and diversity f
 - [Data Model](#-data-model)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
-<!-- - [Repository Structure](#-repository-structure) -->
 
 
 ## 🔎 Overview
@@ -71,10 +70,15 @@ Designed as a real-world HR reporting solution, the dashboard combines executive
 ## 🎯 Skills Demonstrated
 
 - **Power Query:** importing and shaping data from three separate Excel workbooks into a usable model
+
 - **Data modelling:** building a star schema
+
 - **DAX:** deriving fields not present in the raw data, through calculated columns and measures
+
 - **Data visualisation:** choosing appropriate chart types
+
 - **Report design and UX:** custom theming, consistent navigation, and bookmark-driven toggle tabs
+
 - **Storytelling with data:** structuring related visuals together across dedicated pages, so each one tells a focused part of the workforce story rather than mixing everything into one view
 
 
@@ -106,6 +110,7 @@ Designed as a real-world HR reporting solution, the dashboard combines executive
 **Navigation:** every analysis page has back, home, and forward icons in the top-right corner. Back and forward step through the report in order, and home returns to the Cover page.
 
 Each analysis page follows the same interaction pattern: **filter with the slicers at the top, then click into any chart to cross-filter the rest of the page.**
+
 
 ## 🧾 About the Data
 
@@ -149,25 +154,6 @@ Some ideas for a future iteration of this project:
 Built by **Casey Li** in Power BI Desktop.
 
 <br>
-
-<!-- Built by **Casey Li** as a Power BI portfolio project — developed in Power BI Desktop and published via Power BI Pro (Publish to Web). -->
-
-<!-- ## 📁 Repository Structure
-
-```
-HR-Analytics-Dashboard/
-├── README.md
-├── HR_Analytics.pbix
-├── EmployeeDetails.xlsx
-├── EmploymentDetails.xlsx
-├── BusinessUnits.xlsx
-└── assets/
-    ├── bakery_logo_1.png
-    ├── dashboard_page_1.jpg   (Cover)
-    ├── dashboard_page_2.jpg   (HR at a Glance)
-    ├── dashboard_page_3.jpg   (Demographic Analysis)
-    └── dashboard_page_4.jpg   (Diversity Analysis)
-``` -->
 
 <p align="right">
   <sub><a href="#readme-top">Back to top ↑</a></sub>
